@@ -29,9 +29,9 @@ Now open new terminal and run the following command
 source /opt/ros/noetic/setup.bash
 source ~/catkin_ws/devel/setup.bash
 ```
-
+Now run the below launch file
 ```bash
- 
+roslaunch ball_follower_turtle_cpp start_controller.launch 
 ```
 
 Now run the node to publish the video feed;
