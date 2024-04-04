@@ -1,7 +1,14 @@
 # Orangewood Assignment - Ball Follower Turtle
 
-## Submitted By: Subham
-## gmail : subhamk356@gmail.com
+ Submitted By: Subham
+ gmail : subhamk356@gmail.com
+
+
+## Requirements
+* Ubuntu 20.04
+* ROS neotic
+
+
 
 ## Usage
 Clone the repo in src folder of your ros workspace (catkin_ws). Build the package, source the package,
