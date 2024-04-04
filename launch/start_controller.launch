@@ -1,0 +1,10 @@
+<launch>
+    <!-- Launch the node for publishing ball pose -->
+    <node pkg="ball_follower_turtle_cpp" type="ball_pose_publisher" name="ball_pose_publisher" output="screen"/>
+    
+    <!-- Launch the node for controlling the turtle -->
+    <node pkg="ball_follower_turtle_cpp" type="turtle_controller" name="turtle_controller" output="screen"/>
+
+    <!-- Launch the turtlesim node -->
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node" output="screen"/>
+</launch>
