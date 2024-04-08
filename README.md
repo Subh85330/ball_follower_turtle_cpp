@@ -45,3 +45,7 @@ Now run the node to publish the video feed;
 ```bash
 rosrun ball_follower_turtle_cpp publish_video_feed
 ```
+
+
+![GIF Example](turtleFollowingBallGif.gif)
+
