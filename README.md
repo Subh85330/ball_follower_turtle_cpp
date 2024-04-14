@@ -1,8 +1,4 @@
-# Orangewood Assignment - Ball Follower Turtle
-
- Submitted By: Subham
- gmail : subhamk356@gmail.com
-
+# Ball Follower Turtle
 
 ## Requirements
 * Ubuntu 20.04
